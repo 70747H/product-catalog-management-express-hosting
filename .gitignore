@@ -65,3 +65,4 @@ node_modules/
 # dotenv environment variables file
 .env
 /product-catalog-management-firebase-adminsdk-2ovsf-e795b89e3a.json
+/.runtimeconfig.json
