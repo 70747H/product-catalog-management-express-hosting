@@ -1,0 +1,15 @@
+{
+  "project": {
+    "id": "product-catalog-management"
+  },
+  "client": {
+    "email": "firebase-adminsdk-2ovsf@product-catalog-management.iam.gserviceaccount.com"
+  },
+  "private": {
+    "key": "-----BEGIN PRIVATE KEY-----\\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfDlC0ZsoseJ7y\\nAlsolrXkc87PIuv2NK5gdFQKZ3ve6gllpc6HtbvZzDagGgiy64vjPVP36aDWVFLo\\ntqtt2sRjGq5lb8VzkaBKAzngwqTaMVxJyd6g+K2eVp6MIkquQpI+8xZ4uiQjJS5X\\n01w29rdm3LLV+gABMt98xULlO5I4WsIFpR+F5uJew70BzfHgofDCdjpF8mO4Dh4b\\niEJpQvZLpUSnA2oqKUN1usKfv8IAL2rpU1xvSsmzSWF75zkId3RGxi1augIGCoz4\\nfDxZ3OKnFm72CQGK08RPZlaIEjwPjIcQWh1PkNmhkZP5PJksdjVkAPQLoDZ09mzq\\n4PhRFOylAgMBAAECggEAIwwzRx1NkA5F3z3ah/aiTuqZaLeSfuWJLrOojtfywTRh\\n1JxoZq95/D9Xp/FfQ4m6ObLlsjL96B9oxZMKPaEdsXq8Q0j8K+wKVQbLvdKnp3cR\\nCrES75UTZqkykU9ED7x7ETQN6FtLGVCaxwb5WtOKPrnXycJV5NpS/l5aY/1nvL3O\\nw+O03/SEx7yBidySxxHxHh1e1gJsG0Saq8KZRoXc9DlkJ5ytawyYZdFnRAEe+OsY\\nzvynlc/q3BKmOORtSKAY1f78SQNW+8PWXdkG3+CobkfEHkJdrKePQ0AmiLgjmL/3\\n5baNTYTyIq4DfyAgYOVCCZ+0NSYkl6wdPcDhVtOW8wKBgQD7mgDLoH0W84S0ZDDT\\nAz/5lqCHrntnK8oqqhMmV3ba7b/D/KC8LuB/zWnArjhM6ppds97c3x5RExIm88+h\\nyHCaHnM4Au8Ww5UXakh93GO7+vSfXfm9C3wW/oS7GuMhsOFtEF5QtwDNJTFb7wIl\\nuH10/D72MN9Ku85ib/96PCrHTwKBgQDi9I+v4ChuRelFVytE1eG+SgpaajAFBUSp\\nNqGL9pJbVJcSL5RJrTjkacj4KcdTBkqWy++eHhB8jdTMiSUfeKyVw6TUQPe63cD4\\nKtzTnIXowlPYUcE7f1lenNT7wFmky5e08Blbmohs2qSORvi+rheHyeaQwh7jGe7N\\nUHQavADPywKBgQDijjErKs+YzBzx5soEKIgB8f2JT7c1FrxLoKvvuZB/4Nft3dzK\\ntxdWXZxdcUOnFxV7TM1ga9S7woV059ROZNPoI4UyqYmrIOBunji6hKqWCYseuht4\\nfA/4EKVqafKeUs0aTUPwQGmLUHNayiRP3QmzPrRfMXDPtb9I6nrNEcKfhwKBgD79\\nG0f30aDRXG23RLYFGnMiv37ai9tI3AaOuAVNeM9KSedtNx2/qtOSHInrpnt/eoIh\\nta5Pr8mx34ao5Zm3d0bVltCl+1tsolr+Im3EulGgZX7bKeMmdBpTMrVwbDDVpJQ+\\nMvt+hzCW+ibWwcDCNpukSI6Sodnr36AyHRcyaJNDAoGAZsyufG6bO+TNARf/RxbH\\nwGBis+knzbbGjLCdv71uFBkYfyRmRSviZIImIgVHb65aUPbrqFwvgVdHD/RK7lzi\\nLIRo0nLgySqvsvbzKOKe6A6UoljGe6AhKIK9p1aKfZTMg7KjUUkLKissHrpahCBD\\n2a/HFgiyxV3j1JeUrYL1CEc=\\n-----END PRIVATE KEY-----\\n"
+  },
+  "algolia": {
+    "apikey": "893025fbf42dc7f5b1a7c705af3c96ab",
+    "appid": "CRYYU314AQ"
+  }
+}
